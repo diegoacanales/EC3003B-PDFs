@@ -6,8 +6,8 @@ title: "E3: Evaluación por Puntos"
 # E3: Evaluación por Puntos
 
 <div class="meta">
-    <span class="meta-item"><strong>Peso:</strong> 15%</span>
-    <span class="meta-item"><strong>Tipo:</strong> Equipo</span>
+    <span class="meta-item"><strong>Peso:</strong> 5%</span>
+    <span class="meta-item"><strong>Tipo:</strong> Individual</span>
     <span class="meta-item"><strong>Fecha límite:</strong> Lun 23 feb, 11:59pm</span>
     <span class="meta-item"><strong>Módulos:</strong> M06, M08, M09, M10</span>
 </div>

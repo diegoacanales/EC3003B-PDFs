@@ -6,7 +6,7 @@ title: "E1: Actividad Mincer"
 # E1: Actividad Mincer
 
 <div class="meta">
-    <span class="meta-item"><strong>Peso:</strong> 10%</span>
+    <span class="meta-item"><strong>Peso:</strong> 5%</span>
     <span class="meta-item"><strong>Tipo:</strong> Individual</span>
     <span class="meta-item"><strong>Fecha límite:</strong> Jue 12 feb, 11:59pm</span>
     <span class="meta-item"><strong>Módulos:</strong> M01, M02, M03</span>

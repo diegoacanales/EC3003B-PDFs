@@ -6,8 +6,8 @@ title: "E2: Fichas de Puesto"
 # E2: Fichas de Puesto
 
 <div class="meta">
-    <span class="meta-item"><strong>Peso:</strong> 10%</span>
-    <span class="meta-item"><strong>Tipo:</strong> Equipo</span>
+    <span class="meta-item"><strong>Peso:</strong> 5%</span>
+    <span class="meta-item"><strong>Tipo:</strong> Individual</span>
     <span class="meta-item"><strong>Fecha límite:</strong> Mié 18 feb, 11:59pm</span>
     <span class="meta-item"><strong>Módulos:</strong> M04, M05, M06, M07</span>
 </div>

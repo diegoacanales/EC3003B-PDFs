@@ -6,8 +6,8 @@ title: "E7: Presentación Final"
 # E7: Presentación Final
 
 <div class="meta">
-    <span class="meta-item"><strong>Peso:</strong> 35%</span>
-    <span class="meta-item"><strong>Tipo:</strong> Equipo</span>
+    <span class="meta-item"><strong>Peso:</strong> 5%</span>
+    <span class="meta-item"><strong>Tipo:</strong> Grupal</span>
     <span class="meta-item"><strong>Fecha:</strong> Vie 13 mar</span>
     <span class="meta-item"><strong>Módulos:</strong> Proyecto completo</span>
 </div>

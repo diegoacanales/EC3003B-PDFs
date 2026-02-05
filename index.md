@@ -65,7 +65,8 @@ Colaboración con **Geotest** (empresa de ingeniería geotécnica):
 | 18 | Jue 5 mar | Taller: Revisión de pares | **[E6: Borrador final]({{ '/actividades/E6_borrador_final' | relative_url }})** |
 | — | Lun 9 mar | Presentación: Escuela de Negocios | |
 | — | Mié 11 mar | Ensayo conjunto | |
-| — | Vie 13 mar | **Presentación final: Geotest** | **[E7: Entrega completa]({{ '/actividades/E7_presentacion_final' | relative_url }})** |
+| — | Vie 13 mar | **Presentación final: Geotest** | **[E7: Presentación]({{ '/actividades/E7_presentacion_final' | relative_url }})** |
+| — | Lun 16 mar | Entrega final del proyecto | **[E8: Entrega final]({{ '/actividades/E8_entrega_final' | relative_url }})** |
 
 </div>
 
@@ -73,16 +74,17 @@ Colaboración con **Geotest** (empresa de ingeniería geotécnica):
 
 <div class="table-wrapper">
 
-| # | Entregable | Fecha límite | Peso |
-|---|------------|--------------|------|
-| E1 | [Actividad Mincer]({{ '/actividades/E1_actividad_mincer' | relative_url }}) | Jue 12 feb, 11:59pm | 10% |
-| E2 | [Fichas de puesto]({{ '/actividades/E2_fichas_puesto' | relative_url }}) | Mié 18 feb, 11:59pm | 10% |
-| E3 | [Evaluación por puntos]({{ '/actividades/E3_evaluacion_puntos' | relative_url }}) | Lun 23 feb, 11:59pm | 15% |
-| E4 | [Tabulador salarial]({{ '/actividades/E4_tabulador_salarial' | relative_url }}) | Mié 25 feb, 11:59pm | 15% |
-| E5 | [Política salarial]({{ '/actividades/E5_politica_salarial' | relative_url }}) | Mar 3 mar, 11:59pm | 10% |
-| E6 | [Borrador final]({{ '/actividades/E6_borrador_final' | relative_url }}) | Jue 5 mar, 11:59pm | 5% |
-| E7 | [Presentación final]({{ '/actividades/E7_presentacion_final' | relative_url }}) | Vie 13 mar | 35% |
-| | | **Total** | **100%** |
+| # | Entregable | Tipo | Fecha límite | Peso |
+|---|------------|------|--------------|------|
+| E1 | [Actividad Mincer]({{ '/actividades/E1_actividad_mincer' | relative_url }}) | Individual | Jue 12 feb, 11:59pm | 5% |
+| E2 | [Fichas de puesto]({{ '/actividades/E2_fichas_puesto' | relative_url }}) | Individual | Mié 18 feb, 11:59pm | 5% |
+| E3 | [Evaluación por puntos]({{ '/actividades/E3_evaluacion_puntos' | relative_url }}) | Individual | Lun 23 feb, 11:59pm | 5% |
+| E4 | [Tabulador salarial]({{ '/actividades/E4_tabulador_salarial' | relative_url }}) | Individual | Mié 25 feb, 11:59pm | 5% |
+| E5 | [Política salarial]({{ '/actividades/E5_politica_salarial' | relative_url }}) | Individual | Mar 3 mar, 11:59pm | 5% |
+| E6 | [Borrador final]({{ '/actividades/E6_borrador_final' | relative_url }}) | Individual | Jue 5 mar, 11:59pm | 10% |
+| E7 | [Presentación]({{ '/actividades/E7_presentacion_final' | relative_url }}) | Grupal | Vie 13 mar | 5% |
+| E8 | [Entrega final]({{ '/actividades/E8_entrega_final' | relative_url }}) | Individual | Lun 16 mar, 11:59pm | 20% |
+| | | | **Total** | **60%** |
 
 </div>
 
@@ -96,7 +98,7 @@ Colaboración con **Geotest** (empresa de ingeniería geotécnica):
     </div>
     <div class="card">
         <h3 class="card-title">📝 Actividades</h3>
-        <p>Instrucciones y rúbricas de entregables (E1-E7)</p>
+        <p>Instrucciones y rúbricas de entregables (E1-E8)</p>
         <a href="{{ '/actividades' | relative_url }}" class="btn btn-primary">Ver actividades</a>
     </div>
     <div class="card">
