@@ -1,0 +1,73 @@
+# EC3003B - Economía Laboral Aplicada
+# Jekyll Configuration
+
+title: "EC3003B - Economía Laboral Aplicada"
+description: "Tecnológico de Monterrey, Campus Puebla | Febrero-Marzo 2025"
+baseurl: "/EC3003B-PDFs"
+url: "https://diegoacanales.github.io"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Theme settings
+remote_theme: null
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - "*.do"
+  - "*.dta"
+  - "*.log"
+  - notas_instructor
+  - proyecto_geotest
+  - notebooks
+  - resultados
+  - beamer_fragile_frame_fix.md
+
+# Include in build
+include:
+  - _pages
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+# Collections for slides
+collections:
+  slides:
+    output: false
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+
+# Course info (used in templates)
+course:
+  code: "EC3003B"
+  name: "Economía Laboral Aplicada"
+  institution: "Tecnológico de Monterrey"
+  campus: "Campus Puebla"
+  period: "Febrero-Marzo 2025"
+  instructor: "Diego Canales"
+
+# Navigation
+nav:
+  - title: "Inicio"
+    url: "/"
+  - title: "Slides"
+    url: "/slides"
+  - title: "Actividades"
+    url: "/actividades"
+
+# Colors (Tec de Monterrey)
+colors:
+  primary: "#002F6C"
+  secondary: "#00A9E0"
+  accent: "#E31837"
