@@ -23,7 +23,7 @@ Colaboración con **Geotest** (empresa de ingeniería geotécnica):
 
 ### Fase 1: Fundamentos (9-19 feb)
 
-<div class="table-wrapper" markdown="1">
+<div class="table-wrapper">
 
 | # | Fecha | Módulo | Entregable |
 |---|-------|--------|------------|
@@ -40,7 +40,7 @@ Colaboración con **Geotest** (empresa de ingeniería geotécnica):
 
 ### Fase 2: Integración (23 feb - 3 mar)
 
-<div class="table-wrapper" markdown="1">
+<div class="table-wrapper">
 
 | # | Fecha | Módulo | Entregable |
 |---|-------|--------|------------|
@@ -57,7 +57,7 @@ Colaboración con **Geotest** (empresa de ingeniería geotécnica):
 
 ### Fase 3: Cierre (4-13 mar)
 
-<div class="table-wrapper" markdown="1">
+<div class="table-wrapper">
 
 | # | Fecha | Actividad | Entregable |
 |---|-------|-----------|------------|
@@ -72,7 +72,7 @@ Colaboración con **Geotest** (empresa de ingeniería geotécnica):
 
 ## Evaluación
 
-<div class="table-wrapper" markdown="1">
+<div class="table-wrapper">
 
 | # | Entregable | Tipo | Fecha límite | Peso |
 |---|------------|------|--------------|------|

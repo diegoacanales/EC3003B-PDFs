@@ -32,18 +32,16 @@ Cada estudiante tiene asignada una región según los últimos 4 dígitos de su 
 |-----------|--------|-------------------------|--------|
 | 6662 | R1 | 02, 03 | Baja California |
 | 6925 | R2 | 26, 25, 18 | Pacífico Norte |
-| 4381 | R3 | 08, 10, 32 | Sierra Norte |
-| 7384, 2288 | R4 | 05, 19, 28 | Noreste |
-| 7844 | R5 | 14, 06, 01 | Occidente |
-| 3259 | R6 | 11, 22, 24 | Bajío |
-| 6762, 6450 | R7 | 09, 15 | Megalópolis |
-| 7782 | R8 | 16, 12 | Sur-Pacífico |
-| 7325 | R9 | 21, 29, 17 | Centro |
-| 6971 | R10 | 30, 13, 27 | Golfo |
-| 1076 | R11 | 20, 07 | Sur |
-| 6323 | R12 | 31, 23, 04 | Peninsular |
-
-**Nota:** Las regiones R4 (Noreste) y R7 (Megalópolis) tienen 2 estudiantes cada una para comparación entre pares.
+| 7844 | R3 | 08, 10, 32 | Sierra Norte |
+| 3259 | R4 | 05, 19, 28 | Noreste |
+| 6762 | R5 | 14, 06, 01 | Occidente |
+| 7782 | R6 | 11, 22, 24 | Bajío |
+| 7325 | R7 | 09, 15 | Megalópolis |
+| 6971 | R8 | 16, 12 | Sur-Pacífico |
+| 1076 | R9 | 21, 29, 17 | Centro |
+| 6323 | R10 | 30, 13, 27 | Golfo |
+| 2288 | R11 | 20, 07 | Sur |
+| 6450 | R12 | 31, 23, 04 | Peninsular |
 
 ## Instrucciones
 
