@@ -181,17 +181,3 @@ Instrucciones detalladas para cada entregable del curso. Haz clic en el título 
 
 </div>
 
-## Recursos de Código
-
-<div class="grid grid-2">
-    <div class="card">
-        <h3 class="card-title">📁 Templates Stata (M01-M11)</h3>
-        <p>Archivos .do con estructura base para las actividades.</p>
-        <a href="https://github.com/diegoacanales/EC3003B/tree/main/actividades" class="btn btn-secondary">Ver en GitHub</a>
-    </div>
-    <div class="card">
-        <h3 class="card-title">📓 Notebooks Python (M12-M16)</h3>
-        <p>Jupyter notebooks para módulos de inferencia causal.</p>
-        <a href="https://github.com/diegoacanales/EC3003B/tree/main/notebooks" class="btn btn-secondary">Ver en GitHub</a>
-    </div>
-</div>

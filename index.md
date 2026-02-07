@@ -90,7 +90,7 @@ Colaboración con **Geotest** (empresa de ingeniería geotécnica):
 
 ## Recursos
 
-<div class="grid grid-3">
+<div class="grid grid-2">
     <div class="card">
         <h3 class="card-title">📊 Slides</h3>
         <p>Presentaciones de clase por módulo (M01-M16)</p>
@@ -100,11 +100,6 @@ Colaboración con **Geotest** (empresa de ingeniería geotécnica):
         <h3 class="card-title">📝 Actividades</h3>
         <p>Instrucciones y rúbricas de entregables (E1-E8)</p>
         <a href="{{ '/actividades' | relative_url }}" class="btn btn-primary">Ver actividades</a>
-    </div>
-    <div class="card">
-        <h3 class="card-title">💻 Código</h3>
-        <p>Templates de Stata y Python para las actividades</p>
-        <a href="https://github.com/diegoacanales/EC3003B/tree/main/actividades" class="btn btn-secondary">Ver en GitHub</a>
     </div>
 </div>
 
