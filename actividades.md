@@ -165,7 +165,7 @@ Instrucciones detalladas para cada entregable del curso. Haz clic en el título 
 
 ## Resumen de Evaluación
 
-<div class="table-wrapper">
+<div class="table-wrapper" markdown="1">
 
 | Entregable | Tipo | Peso | Fecha límite |
 |------------|------|------|--------------|
