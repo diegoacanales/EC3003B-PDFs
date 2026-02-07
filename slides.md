@@ -219,3 +219,12 @@ Presentaciones Beamer para cada módulo del curso. Haz clic en el título para d
     </div>
 </div>
 
+---
+
+## Descargar Todos los Slides
+
+<a href="https://github.com/diegoacanales/EC3003B/tree/main/slides" class="btn btn-primary">📥 Ver todos en GitHub</a>
+
+<div class="alert alert-info">
+    <strong>Nota:</strong> Los slides de M12-M16 (inferencia causal) se entregarán durante el curso. Los módulos M01-M11 están disponibles como PDF.
+</div>
