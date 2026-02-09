@@ -14,7 +14,7 @@ title: "E3: Evaluación por Puntos"
 
 ## Objetivo de Aprendizaje
 
-Diseñar e implementar un sistema de evaluación por puntos que establezca una jerarquía interna objetiva para los 33 puestos de Geotest.
+Diseñar e implementar un sistema de evaluación por puntos que establezca una jerarquía interna objetiva para los 33 puestos de la empresa.
 
 ## Contexto
 
@@ -51,7 +51,7 @@ Seleccionar **5 factores compensables** de las siguientes categorías:
 
 Asignar peso porcentual a cada factor (total = 100%). Justificar la ponderación basándose en:
 - Naturaleza de la industria (ingeniería geotécnica)
-- Estructura organizacional de Geotest
+- Estructura organizacional de la empresa
 - Prácticas del mercado
 
 ### 3. Escala de Grados
@@ -78,11 +78,15 @@ Para cada factor, definir **4-6 grados** con:
 
 ### 5. Validación
 
-- Comparar jerarquía resultante con estructura actual de Geotest
+- Comparar jerarquía resultante con estructura actual de la empresa
 - Identificar inconsistencias
 - Proponer ajustes si es necesario
 
 ## Entregables
+
+<div class="alert alert-warning">
+    <strong>Formato de entrega:</strong> Todos los archivos deben comprimirse en un <strong>solo archivo .zip</strong> para su entrega vía Canvas.
+</div>
 
 1. **Manual del sistema de evaluación**
    - Definición de factores y justificación

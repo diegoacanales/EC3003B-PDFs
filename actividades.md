@@ -8,7 +8,7 @@ title: Actividades
 Instrucciones detalladas para cada entregable del curso. Haz clic en el título para ver las instrucciones completas.
 
 <div class="alert alert-warning">
-    <strong>Importante:</strong> Todas las entregas se realizan vía Canvas antes de las 11:59pm de la fecha límite.
+    <strong>Importante:</strong> Todas las entregas se realizan vía Canvas antes de las 11:59pm de la fecha límite. <strong>Todos los entregables deben subirse en formato .zip</strong> (un solo archivo comprimido con todos los archivos solicitados).
 </div>
 
 ## Entregables Individuales
@@ -23,7 +23,7 @@ Instrucciones detalladas para cada entregable del curso. Haz clic en el título 
             <span class="badge badge-red">Jue 12 feb</span>
         </div>
     </div>
-    <p>Replicar la ecuación de Mincer con datos de ENIGH 2024, estimar retornos a educación y experiencia para tu región asignada.</p>
+    <p>Replicar la ecuación de Mincer con datos de la ENOE (Q3, 2015-2024), estimar retornos a educación y experiencia para tu región asignada.</p>
     <div class="meta">
         <span class="meta-item">📊 Módulos: M01, M02, M03</span>
         <span class="meta-item">👤 Individual</span>
@@ -42,7 +42,7 @@ Instrucciones detalladas para cada entregable del curso. Haz clic en el título 
             <span class="badge badge-red">Mié 18 feb</span>
         </div>
     </div>
-    <p>Elaborar descripciones de puesto estandarizadas para los puestos asignados de Geotest usando la metodología WorldatWork.</p>
+    <p>Elaborar descripciones de puesto estandarizadas para los puestos asignados de la empresa usando la metodología WorldatWork.</p>
     <div class="meta">
         <span class="meta-item">📊 Módulos: M04, M05, M06, M07</span>
         <span class="meta-item">👤 Individual</span>
@@ -152,7 +152,7 @@ Instrucciones detalladas para cada entregable del curso. Haz clic en el título 
             <span class="badge badge-red">Vie 13 mar</span>
         </div>
     </div>
-    <p>Presentación ejecutiva grupal ante Geotest del sistema de compensaciones propuesto.</p>
+    <p>Presentación ejecutiva grupal ante la empresa del sistema de compensaciones propuesto.</p>
     <div class="meta">
         <span class="meta-item">📊 Proyecto completo</span>
         <span class="meta-item">👥 Grupal</span>

@@ -14,11 +14,11 @@ title: "E7: Presentación Final"
 
 ## Objetivo de Aprendizaje
 
-Comunicar de manera efectiva a un cliente real (Geotest) una propuesta completa de sistema de compensaciones, demostrando dominio técnico y habilidades de presentación ejecutiva.
+Comunicar de manera efectiva a un cliente real (empresa de ingeniería geotécnica) una propuesta completa de sistema de compensaciones, demostrando dominio técnico y habilidades de presentación ejecutiva.
 
 ## Contexto
 
-Esta es la culminación del proyecto semestral. Presentarán ante representantes de Geotest su propuesta de sistema de compensaciones, defendiendo sus decisiones metodológicas y demostrando el valor agregado de su trabajo.
+Esta es la culminación del proyecto semestral. Presentarán ante representantes de la empresa su propuesta de sistema de compensaciones, defendiendo sus decisiones metodológicas y demostrando el valor agregado de su trabajo.
 
 ## Estructura de la Presentación
 
@@ -60,10 +60,14 @@ Esta es la culminación del proyecto semestral. Presentarán ante representantes
 - Próximos pasos sugeridos
 
 ### Sesión de Preguntas (10 min)
-- Preguntas del cliente (Geotest)
+- Preguntas del cliente
 - Preguntas del panel académico
 
 ## Entregables
+
+<div class="alert alert-warning">
+    <strong>Formato de entrega:</strong> Todos los archivos deben comprimirse en un <strong>solo archivo .zip</strong> para su entrega vía Canvas.
+</div>
 
 ### Antes de la presentación (11 mar, 11:59pm)
 
@@ -131,8 +135,8 @@ Esta es la culminación del proyecto semestral. Presentarán ante representantes
 ### Presentación Final
 - **Fecha:** Vie 13 mar
 - **Hora:** Por confirmar
-- **Lugar:** Instalaciones de Geotest / Videoconferencia
-- **Asistentes:** Representantes de Geotest, profesores, invitados
+- **Lugar:** Instalaciones de la empresa / Videoconferencia
+- **Asistentes:** Representantes de la empresa, profesores, invitados
 
 ### Código de Vestimenta
 - Formal de negocios

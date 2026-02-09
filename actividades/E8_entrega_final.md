@@ -14,11 +14,11 @@ title: "E8: Entrega Final"
 
 ## Objetivo de Aprendizaje
 
-Entregar la versión final del proyecto de compensaciones para Geotest, incorporando toda la retroalimentación recibida durante el proceso de revisión de pares y la presentación final.
+Entregar la versión final del proyecto de compensaciones para la empresa, incorporando toda la retroalimentación recibida durante el proceso de revisión de pares y la presentación final.
 
 ## Contexto
 
-La entrega final representa el producto terminado de todo el semestre. Este documento debe estar listo para ser utilizado por Geotest como guía de implementación de su nuevo sistema de compensaciones.
+La entrega final representa el producto terminado de todo el semestre. Este documento debe estar listo para ser utilizado por la empresa como guía de implementación de su nuevo sistema de compensaciones.
 
 ## Instrucciones
 
@@ -75,9 +75,13 @@ El documento debe reflejar las mejoras basadas en:
 - Retroalimentación de revisión de pares (E6)
 - Comentarios del ensayo general
 - Preguntas y sugerencias de la presentación final (E7)
-- Observaciones del cliente (Geotest)
+- Observaciones del cliente
 
 ## Entregables
+
+<div class="alert alert-warning">
+    <strong>Formato de entrega:</strong> Todos los archivos deben comprimirse en un <strong>solo archivo .zip</strong> para su entrega vía Canvas.
+</div>
 
 1. **Documento final completo** (PDF, 40-60 páginas)
    - Todas las secciones integradas
@@ -107,7 +111,7 @@ El documento debe reflejar las mejoras basadas en:
 <div class="alert alert-success">
     <strong>Criterios de excelencia:</strong>
     <ul>
-        <li>Documento utilizable directamente por Geotest</li>
+        <li>Documento utilizable directamente por la empresa</li>
         <li>Evidencia clara de aprendizaje durante el proceso</li>
         <li>Análisis profundo con recomendaciones accionables</li>
         <li>Presentación impecable de nivel ejecutivo</li>

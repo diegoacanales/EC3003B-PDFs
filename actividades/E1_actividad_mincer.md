@@ -14,7 +14,7 @@ title: "E1: Actividad Mincer"
 
 ## Objetivo de Aprendizaje
 
-Aplicar la ecuación de Mincer para estimar los retornos a la educación y experiencia en el mercado laboral mexicano, interpretando los coeficientes en el contexto de decisiones de compensación.
+Aplicar la ecuación de Mincer para estimar los retornos a la educación y experiencia en el mercado laboral mexicano usando datos de la ENOE (Encuesta Nacional de Ocupación y Empleo, Q3 2015-2024), interpretando los coeficientes en el contexto de decisiones de compensación.
 
 ## Contexto
 
@@ -76,7 +76,7 @@ $$\ln(w) = \beta_0 + \beta_1 \cdot Educ + \beta_2 \cdot Exp + \beta_3 \cdot Exp^
 - Filtra la muestra regional al sector construcción/ingeniería (códigos SCIAN relevantes)
 - Estima la ecuación de Mincer para este subsector
 - Compara los retornos con la muestra regional general
-- ¿Qué implica esto para Geotest en tu región?
+- ¿Qué implica esto para la empresa en tu región?
 
 #### 5. Aplicación al proyecto - Tu Región (15 pts)
 
@@ -91,9 +91,9 @@ $$\ln(w) = \beta_0 + \beta_1 \cdot Educ + \beta_2 \cdot Exp + \beta_3 \cdot Exp^
 - Compara los retornos de tu región con los nacionales
 - Proporciona hipótesis sobre las diferencias observadas
 
-#### 6B. Comparación Temporal 2022 vs 2024 (10 pts)
+#### 6B. Comparación Temporal (10 pts)
 
-- Compara tus resultados nacionales con los obtenidos en clase (ENIGH 2022)
+- Compara los retornos estimados entre el primer año (ENOE Q3 2015) y el último (ENOE Q3 2024)
 - ¿Han cambiado los retornos? ¿Por qué podría ser?
 
 ### Parte 4: Visualización (10 puntos)
@@ -107,6 +107,10 @@ $$\ln(w) = \beta_0 + \beta_1 \cdot Educ + \beta_2 \cdot Exp + \beta_3 \cdot Exp^
 
 ## Entregables
 
+<div class="alert alert-warning">
+    <strong>Formato de entrega:</strong> Todos los archivos deben comprimirse en un <strong>solo archivo .zip</strong> para su entrega vía Canvas.
+</div>
+
 1. **Archivo Stata (.do)** con tu matrícula configurada y todo el código comentado
 2. **Documento PDF** con tablas de regresión, gráficas y respuestas a todas las preguntas de reflexión
 3. **Carpeta de resultados** con tablas y gráficas exportadas (nombradas con tu código de región)
@@ -115,12 +119,12 @@ $$\ln(w) = \beta_0 + \beta_1 \cdot Educ + \beta_2 \cdot Exp + \beta_3 \cdot Exp^
 
 Tu PDF debe responder las siguientes preguntas:
 
-- **1.1:** Tamaño de muestra nacional vs ENIGH 2022
+- **1.1:** Tamaño de muestra nacional por año (ENOE Q3)
 - **2.1:** Interpretación del coeficiente de escolaridad
 - **4.1:** Sesgo por variables omitidas en tu región
 - **5.1:** Retornos sectoriales en tu región
 - **6A:** Comparación tu región vs nacional
-- **6B:** Comparación temporal 2022 vs 2024
+- **6B:** Comparación temporal 2015 vs 2024
 - **7.1:** Premios educativos y estructura de la empresa
 - **9.1:** Reflexión final (máx 500 palabras)
 
@@ -155,7 +159,7 @@ Tu PDF debe responder las siguientes preguntas:
 <div class="alert alert-info">
     <strong>Recursos disponibles:</strong>
     <ul>
-        <li>Datos ENIGH 2024 (Canvas)</li>
+        <li>Datos ENOE Q3, 2015-2024 (Canvas)</li>
         <li>Template de código: <code>actividades/M01_actividad_estudiante.do</code></li>
         <li>Tabla de códigos de estado INEGI</li>
     </ul>

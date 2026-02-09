@@ -8,9 +8,9 @@ title: Inicio
     <p>Economía Laboral Aplicada | Tecnológico de Monterrey, Campus Puebla</p>
 </div>
 
-## Proyecto Final: Geotest
+## Proyecto Final
 
-Colaboración con **Geotest** (empresa de ingeniería geotécnica):
+Colaboración con una **empresa de ingeniería geotécnica**:
 - ~260 empleados distribuidos en 33 puestos
 - 5 niveles jerárquicos (Operativo → Gerencia)
 - Metodología WorldatWork
@@ -65,7 +65,7 @@ Colaboración con **Geotest** (empresa de ingeniería geotécnica):
 | 18 | Jue 5 mar | Taller: Revisión de pares | **[E6: Borrador final]({{ '/actividades/E6_borrador_final' | relative_url }})** |
 | — | Lun 9 mar | Presentación: Escuela de Negocios | |
 | — | Mié 11 mar | Ensayo conjunto | |
-| — | Vie 13 mar | **Presentación final: Geotest** | **[E7: Presentación]({{ '/actividades/E7_presentacion_final' | relative_url }})** |
+| — | Vie 13 mar | **Presentación final: empresa** | **[E7: Presentación]({{ '/actividades/E7_presentacion_final' | relative_url }})** |
 | — | Lun 16 mar | Entrega final del proyecto | **[E8: Entrega final]({{ '/actividades/E8_entrega_final' | relative_url }})** |
 
 </div>
