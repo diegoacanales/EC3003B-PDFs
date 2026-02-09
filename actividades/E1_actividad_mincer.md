@@ -160,7 +160,6 @@ Tu PDF debe responder las siguientes preguntas:
     <strong>Recursos disponibles:</strong>
     <ul>
         <li>Datos ENOE Q3, 2015-2024 (Canvas)</li>
-        <li>Template de código: <code>actividades/M01_actividad_estudiante.do</code></li>
         <li>Tabla de códigos de estado INEGI</li>
     </ul>
 </div>
