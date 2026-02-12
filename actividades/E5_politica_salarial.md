@@ -14,7 +14,7 @@ title: "E5: Política Salarial"
 
 ## Objetivo de Aprendizaje
 
-Redactar un documento de política salarial que establezca los principios, criterios y procedimientos para la administración de compensaciones en la empresa.
+Redactar un documento de política salarial que establezca los principios, criterios y procedimientos para la administración de compensaciones en Geotest.
 
 ## Contexto
 
@@ -83,10 +83,6 @@ Una política salarial bien diseñada proporciona el marco de referencia para to
 - Auditoría y revisión periódica
 
 ## Entregables
-
-<div class="alert alert-warning">
-    <strong>Formato de entrega:</strong> Todos los archivos deben comprimirse en un <strong>solo archivo .zip</strong> para su entrega vía Canvas.
-</div>
 
 1. **Documento de Política Salarial** (8-12 páginas)
    - Todas las secciones indicadas

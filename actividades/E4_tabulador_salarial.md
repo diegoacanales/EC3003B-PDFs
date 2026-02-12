@@ -76,10 +76,6 @@ Analizar:
 
 ## Entregables
 
-<div class="alert alert-warning">
-    <strong>Formato de entrega:</strong> Todos los archivos deben comprimirse en un <strong>solo archivo .zip</strong> para su entrega vía Canvas.
-</div>
-
 1. **Tabulador salarial**
    - Tabla con grados, rangos de puntos, bandas salariales
    - Visualización gráfica del tabulador
@@ -110,7 +106,7 @@ Analizar:
 <div class="alert alert-info">
     <strong>Datos disponibles:</strong>
     <ul>
-        <li>Salarios actuales de la empresa (anonimizados)</li>
+        <li>Salarios actuales de Geotest (anonimizados)</li>
         <li>Datos de encuesta salarial del sector</li>
         <li>Template de tabulador en Excel</li>
     </ul>

@@ -18,7 +18,7 @@ Integrar todos los componentes del proyecto en un documento completo para revisi
 
 ## Contexto
 
-El borrador final es la última oportunidad para recibir retroalimentación estructurada antes de la presentación ante la empresa. La revisión de pares permite identificar áreas de mejora y fortalecer el producto final.
+El borrador final es la última oportunidad para recibir retroalimentación estructurada antes de la presentación ante Geotest. La revisión de pares permite identificar áreas de mejora y fortalecer el producto final.
 
 ## Instrucciones
 
@@ -72,10 +72,6 @@ Durante la sesión del 5 de marzo:
 4. **Discusión en clase** de patrones comunes
 
 ## Entregables
-
-<div class="alert alert-warning">
-    <strong>Formato de entrega:</strong> Todos los archivos deben comprimirse en un <strong>solo archivo .zip</strong> para su entrega vía Canvas.
-</div>
 
 1. **Borrador completo** (PDF, 30-50 páginas)
    - Todas las secciones integradas

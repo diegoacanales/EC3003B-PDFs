@@ -23,7 +23,7 @@ exclude:
   - "*.dta"
   - "*.log"
   - notas_instructor
-  - proyecto_empresa
+  - proyecto_geotest
   - notebooks
   - resultados
   - beamer_fragile_frame_fix.md

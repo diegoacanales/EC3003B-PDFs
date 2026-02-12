@@ -18,13 +18,13 @@ Aplicar la metodología WorldatWork para elaborar descripciones de puesto estand
 
 ## Contexto
 
-La empresa cuenta con 33 puestos distribuidos en 5 niveles jerárquicos. Para diseñar un sistema de compensaciones equitativo, necesitamos documentar de manera sistemática las responsabilidades, requisitos y condiciones de cada puesto.
+Geotest cuenta con 33 puestos distribuidos en 5 niveles jerárquicos. Para diseñar un sistema de compensaciones equitativo, necesitamos documentar de manera sistemática las responsabilidades, requisitos y condiciones de cada puesto.
 
 ## Instrucciones
 
 ### 1. Asignación de Puestos
 
-Cada equipo recibirá ~3 puestos para documentar. La asignación se realizará en clase considerando:
+Cada estudiante recibirá ~3 puestos para documentar. La asignación se realizará en clase considerando:
 - Disponibilidad de información (descripción de puesto y/o manual de funciones)
 - Balance de complejidad entre equipos
 
@@ -78,10 +78,6 @@ Para los 7 puestos sin descripción de puesto disponible, deberán:
 
 ## Entregables
 
-<div class="alert alert-warning">
-    <strong>Formato de entrega:</strong> Todos los archivos deben comprimirse en un <strong>solo archivo .zip</strong> para su entrega vía Canvas.
-</div>
-
 1. **Fichas de puesto** (formato Word o PDF)
    - Una ficha por puesto asignado
    - Formato estandarizado
@@ -104,7 +100,7 @@ Para los 7 puestos sin descripción de puesto disponible, deberán:
 <div class="alert alert-info">
     <strong>Recursos:</strong>
     <ul>
-        <li>Descripciones de puesto proporcionadas por la empresa (Canvas)</li>
+        <li>Descripciones de puesto proporcionadas por Geotest (Canvas)</li>
         <li>Manuales de funciones (Canvas)</li>
         <li>Template de ficha de puesto (Canvas)</li>
     </ul>
